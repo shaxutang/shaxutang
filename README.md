@@ -1,5 +1,4 @@
 ### Hi there 👋
-My website: https://taoy.icu
 - 📫 How to reach me:
   - email: olaysunju@163.com
 <!--
