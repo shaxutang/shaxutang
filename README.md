@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 📫 How to reach me:
-  - email: olaysunju@163.com
+  - email: shaxutang@163.com
 <!--
 **shaxutang/shaxutang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
